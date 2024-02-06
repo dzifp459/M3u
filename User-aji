@@ -32,6 +32,9 @@ https://sportsleading.online/live/stream_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 2
 https://iptv.lancartech.co.id/live/2024mantap/2024mantap/74.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 3
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_030224/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- BADMINTON --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
@@ -50,6 +53,9 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 1
 http://iptvtree.net:8080/F26646/f950f250/162138
 
+#EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 2
+http://sg.zozotv.xyz:8080/live/rozila969/abc12345/45.ts?token=SRdZUUFeRwtAVAddBA8CUlEKA19QBQFQWgQNVQVVAgIFBAdWUQBQVFMQHhoSTUVTA15sDwZECwdWShtBQwRCa1tREwoQBFUBVAMQFENNXlsHEQlXVVYGAVFVCQIETRJEW1ETChAEVAdTAxAUQ1xPQgdBXQcOOVVWFQ9aURJbXkFeWR0SXVg6VQdfU1YFGw0UUhEfRAsVQRFZCExYXE0SVltBQ1FGU0cLQAEAAFkbGxQBXEYIFhRIEVlEcHASTRJRSkFUXkFfCl9ACBBMEhsbFAtAbBQHFUVBBgdUUUJDChYCFx0SX1cdbgFdXFYEWkNfDV1ARFhEABFPRFRbXghEW0BqQVlWFF8TUQAGD1EbSg==
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- EPL --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
@@ -59,7 +65,7 @@ https://www.dropbox.com/scl/fi/f4p5juaf1y98qhlkeiazr/truepremfootball1.m3u8?rlke
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 2
 https://www.dropbox.com/scl/fi/l4zc40g2fgbpl0jvs8tnk/truepremfootball2.m3u8?rlkey=xf6058l58nn73svxok8c7np14&dl=1
 
-EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- FORMULA 1 --
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- FORMULA 1 --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 1
@@ -98,16 +104,16 @@ https://www.dropbox.com/scl/fi/1whoa3drk8klmk1t0937m/spotv2.m3u8?rlkey=dhru3z8u1
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOCAL", RCTI
-https://iptv.lancartech.co.id/live/2024mantap/2024mantap/13..m3u8
+http://iptvtree.net:8080/F26646/f950f250/157591
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOCAL", MNC TV
-https://iptv.lancartech.co.id/live/2024mantap/2024mantap/10.m3u8
+http://iptvtree.net:8080/F26646/f950f250/165054
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL", GTV
-https://iptv.lancartech.co.id/live/2024mantap/2024mantap/11.m3u8
+http://iptvtree.net:8080/F26646/f950f250/157578
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", INEWS TV
-https://iptv.lancartech.co.id/live/2024mantap/2024mantap/12.m3u8
+http://iptvtree.net:8080/F26646/f950f250/157579
 
 #########################################################################
 
@@ -147,14 +153,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="sctv.MACAN" tv-name="SCTV" tvg-logo="https://media0.giphy.com/media/57YbiWTSsLgX0ZZWnp/200w.gif?cid=82a1493bm0q4pntclp2j1cwoj7elxqamyfcvzvjgw94m2d1m&rid=200w.gif&ct=s" group-title="LOCAL",SCTV 3
 https://iptv.lancartech.co.id/live/2024mantap/2024mantap/5.m3u8
 
-#EXTINF:-1 tvg-id="trans7.MACAN" tv-name="Trans7" tvg-logo="https://media1.giphy.com/media/LkMrq2j7YdWFNy5QaB/giphy.gif?cid=6c09b9526c14ce96a3e30ddb5cd6ef4ce86c3462636e2bcd&rid=giphy.gif&ct=s" group-title="LOCAL",TRANS 7 (MANUAL SET RES)
-https://www.dropbox.com/scl/fi/1vvaanqxqfaedrsnqh82u/trans7.m3u8?rlkey=7rdjoljb9bc36716lu3ym9lgj&dl=1
-
 #EXTINF:-1 tvg-id="trans7.MACAN" tv-name="Trans7" tvg-logo="https://media1.giphy.com/media/LkMrq2j7YdWFNy5QaB/giphy.gif?cid=6c09b9526c14ce96a3e30ddb5cd6ef4ce86c3462636e2bcd&rid=giphy.gif&ct=s" group-title="LOCAL",TRANS 7 TRANSMEDIA HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1718281498_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="transtv.MACAN" tvg-logo="https://www.transtv.co.id/template/countdown/source/images/wcfix.gif" tvg-name" TRANS TV" group-title="LOCAL",TRANS TV (MANUAL SET RES)
-https://www.dropbox.com/scl/fi/g29fetl5kgu32p9uu7a0l/transtv.m3u8?rlkey=xj2rzcxpotknlmdskqkxroh6y&dl=1
 
 #EXTINF:-1 tvg-id="transtv.MACAN" tvg-logo="https://www.transtv.co.id/template/countdown/source/images/wcfix.gif" tvg-name" TRANS TV" group-title="LOCAL",TRANS TV TRANSMEDIA HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
