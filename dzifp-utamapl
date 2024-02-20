@@ -865,19 +865,16 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46253.m3u8
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46252.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT 1
-http://bbiptv.net:8000/Cathy6335/Williams/1088
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2943.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT 2
-http://bbiptv.net:8000/live/Cathy6335/Williams/1089.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2942.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT 3
-http://bbiptv.net:8000/live/Cathy6335/Williams/1090.m3u8
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT 4
-http://bbiptv.net:8000/live/Cathy6335/Williams/1739.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2941.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT ESPN
-http://bbiptv.net:8000/live/Cathy6335/Williams/1091.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2940.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DAZN 1 DE
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37069_&extension=ts
