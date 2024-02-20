@@ -180,13 +180,13 @@ https://e1.siar.us/badartv/live/chunks.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="DAERAH",BMS TV (Banyumas)
-http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9qrTURftZGkPKnnC4AjQgGUNksjVV1rt-A&usqp=CAU" group-title="DAERAH",BANJAR TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTu2QUYNIo8ObML2f0tF14VP-zd_fGqiyGQ&usqp=CAU" group-title="DAERAH",BANTEN TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8F8XSLGaisE-jbTYX_vRuv-08rKshUJELQ&usqp=CAU" group-title="DAERAH",BATAM TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
@@ -196,6 +196,9 @@ https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="DAERAH",DUTA TV (Banjarmasin)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DAERAH",DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0yMDLEfxjwerPl4dACQhPv67yjJ8NI_pmyA&usqp=CAU" group-title="DAERAH",FAJAR TV (Makassar)
 http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
