@@ -1185,68 +1185,29 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13155_&extens
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TELEKOM SPORTS 1
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORT 1 UK HD
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=213_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 1 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28946.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 2 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11485_&extension=ts
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28945.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 3 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11486_&extension=ts
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28943.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 4 UK
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=316_&extension=ts
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28942.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 5 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109870_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 5 
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28941.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 6 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109871_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 6
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/28940.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TNT SPORTS 7 EVENT
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109872_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", UFC NETWORK
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/3084.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TSN 1 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18139_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TSN 2 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18138_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TSN 3 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18137_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TSN 4 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18136_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", TSN 5 US
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18135_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", UFC POWER SLAP NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=135161_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", V SPORT 1 SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13761_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", V SPORT PREMIUM SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61928_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", V SPORT GOLF SW
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61972_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", V SPORT GOLF 2 SW2
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=71470_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", WRESTLING TV NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=124327_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", WWE TV NL
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=122559_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", WWE TV TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=122560_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", WWE NETWORK
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/3083.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", NL026:Ziggo Sport Voetbal SD
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/31505.m3u8
