@@ -476,10 +476,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",Cinemax
-http://103.113.116.150:25461/mtm1/12345/20
-
-#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",Cinemax 2
-http://iptvtree.net:8080/F26646/f950f250/197964
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/71058.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO
 http://103.113.116.150:25461/mtm1/12345/16
@@ -494,10 +491,7 @@ http://103.113.116.150:25461/mtm1/12345/19
 http://iptvtree.net:8080/F26646/f950f250/197055
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Hits
-http://103.113.116.150:25461/mtm1/12345/17
-
-#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Hits 2
-http://iptvtree.net:8080/F26646/f950f250/196480
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/71037.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Signature
 http://iptvtree.net:8080/F26646/f950f250/221948
