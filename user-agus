@@ -312,10 +312,10 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60454.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-B1jyVV-7pkaX5OXRWB-r11J1yaMx3scIA&usqp=CAU" group-title="NEWS",ARIRANG (MANUAL SET RES)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0394_221201_1700
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/arirang.m3u8
 
 #EXTINF:-1 tvg-id="beritasatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NEWS",BBC WORLD NEWS (MANUAL SET RES)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch310)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0395_221201_1630
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
 
 #EXTINF:-1 tvg-id="beritasatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NEWS",BERITA SATU 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
