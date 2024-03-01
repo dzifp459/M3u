@@ -50,8 +50,8 @@ https://ani.zq4669.com:31106/live/hls?id=3d8bb371.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- BRI LIGA 1 --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="DZIFP|SPORTS-LIVE",LIVE 1
-https://www.dropbox.com/scl/fi/sicey1hvqh0aygsjjphq6/dzifpLiga1.m3u8?rlkey=nqjwr5cw7mm9bpnf892ovqhnh&dl=1
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="DZIFP|SPORTS-LIVE",LIVE 1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- EPL --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
