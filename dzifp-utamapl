@@ -53,6 +53,9 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="DZIFP|SPORTS-LIVE",LIVE 1
 http://iptvtree.net:8080/live/F26646/f950f250/162138.ts
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="DZIFP|SPORTS-LIVE",LIVE 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- EPL --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
@@ -136,7 +139,7 @@ http://195.74.93.7:8070/F26646/f950f250/165059
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/03482dde94f412c017caafeaf85c9c76/368382-multi-media-channels-tv-world-indonesia-moji.gif" group-title="LOCAL",MOJI TV
-https://srtv.my.id/vd/play.m3u8?id=206&type=hls
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-id="nettv.MACAN" tvg-logo="https://media2.giphy.com/media/QwmllAoe35biowjzbf/giphy.gif?cid=6c09b952f695d9b4ca2a8a7d568d9fcf065b376015f26b06&rid=giphy.gif&ct=s" group-title="LOCAL",NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
