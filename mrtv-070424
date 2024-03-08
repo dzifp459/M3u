@@ -621,14 +621,11 @@ http://iptvtree.net:8080/live/87b43fb3/d8db7a3d96/165086.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP VIP|SPORTS ID",ADMIN DZIFP TV | t.me/@zaltvq
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT
-https://www.dropbox.com/scl/fi/h19h125hnc2k0lyezoo71/beinsports1.m3u8?rlkey=hposf6yvn4qr9b0p1yknz5503&dl=1
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT 2
-https://www.dropbox.com/scl/fi/hn1jkjbqw46fm0i4xzad2/beinsports2.m3u8?rlkey=7a1k1upq95cms2d9lz05d9074&dl=1
+##EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT
+http://iptvtree.net:8080/live/F26646/f950f250/165105.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT 3
-https://www.dropbox.com/scl/fi/ujb0zi3ajkg84to8697ip/beinsports3.m3u8?rlkey=dk0koyga40e3pjzbtaq1f3jps&dl=1
+http://iptvtree.net:8080/live/F26646/f950f250/298506.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="DZIFP VIP|SPORTS ID", Fight Sport
 https://www.dropbox.com/scl/fi/m22c2mrwm125qurpd95xz/fightsports.m3u8?rlkey=n0epg7joe8hz3b6qyjapolst8&dl=1
