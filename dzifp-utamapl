@@ -98,7 +98,7 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60479.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOCAL", MNC TV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880793
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL", GTV
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60292.m3u8
@@ -140,9 +140,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1 tvg-id="sctv.MACAN" tv-name="SCTV" tvg-logo="https://media0.giphy.com/media/57YbiWTSsLgX0ZZWnp/200w.gif?cid=82a1493bm0q4pntclp2j1cwoj7elxqamyfcvzvjgw94m2d1m&rid=200w.gif&ct=s" group-title="LOCAL",SCTV 2 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 tvg-id="sctv.MACAN" tv-name="SCTV" tvg-logo="https://media0.giphy.com/media/57YbiWTSsLgX0ZZWnp/200w.gif?cid=82a1493bm0q4pntclp2j1cwoj7elxqamyfcvzvjgw94m2d1m&rid=200w.gif&ct=s" group-title="LOCAL",SCTV 3
-https://iptv.lancartech.co.id/live/2024mantap/2024mantap/5.m3u8
 
 #EXTINF:-1 tvg-id="trans7.MACAN" tv-name="Trans7" tvg-logo="https://media1.giphy.com/media/LkMrq2j7YdWFNy5QaB/giphy.gif?cid=6c09b9526c14ce96a3e30ddb5cd6ef4ce86c3462636e2bcd&rid=giphy.gif&ct=s" group-title="LOCAL",TRANS 7 TRANSMEDIA HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1718281498_b744100_sleng.m3u8
@@ -467,7 +464,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",Cinemax
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/71058.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/71058.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO
 http://103.113.116.150:25461/mtm1/12345/16
@@ -476,13 +473,10 @@ http://103.113.116.150:25461/mtm1/12345/16
 http://iptvtree.net:8080/F26646/f950f250/197972
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Family
-http://103.113.116.150:25461/mtm1/12345/19
-
-#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Family 2
-http://iptvtree.net:8080/F26646/f950f250/197055
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/1707.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Hits
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/71037.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/71037.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Signature
 http://iptvtree.net:8080/F26646/f950f250/221948
@@ -501,8 +495,11 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMeDsn6WxeHhO_0LNmydM3Vw0qGoWREJtIxw&usqp=CAU" group-title="PREMIUM-MOVIES",&Prive HD
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="PREMIUM-MOVIES", ASTRO BOO
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/1697.ts
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="PREMIUM-MOVIES", AXN 
-https://www.dropbox.com/scl/fi/nelxhajknxun0pe12k04x/axn.m3u8?rlkey=fs5lkfopvk8octh0265jieeow&dl=1
+http://vo01.mohdtv.com:8880/ALLChannels681def200b53/80042143/60457
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="PREMIUM-MOVIES", CCM
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
@@ -597,10 +594,7 @@ https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7u
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="animaxhd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png",ANIMAX ID 
-https://www.dropbox.com/scl/fi/mh1xpytc2ppy6xpfrvfm8/animax.m3u8?rlkey=k5p5706a9w6s25p7oqjk1blxl&dl=1
-
-#EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png",ANIPLUS ID (MANUAL SET RES)
-http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/60456.ts
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="",BABY TV
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/2951.m3u8
@@ -609,7 +603,7 @@ http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/2951.m3u8
 https://www.dropbox.com/scl/fi/8bof2eicvtyhsfrrxcght/boomerang.m3u8?rlkey=q52mnquq0r3z2inpsdv7cnpu2&dl=1
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png",CARTOON NETWORK
-https://www.dropbox.com/scl/fi/3tt68rs6vhupljjxrv0pe/cartoonnetwork.m3u8?rlkey=gpgjz5zh2pt9z77tc06jmjdi0&dl=1
+http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/71084.ts
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu66JNRG7C5J9Xb6EiR9JaFyD36BfBjvReA&usqp=CAU",CBEEBIES 
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60287.m3u8
