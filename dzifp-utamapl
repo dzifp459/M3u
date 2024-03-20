@@ -101,10 +101,10 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60479.m3u8
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL", GTV
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60292.m3u8
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", INEWS TV
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60291.m3u8
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #########################################################################
 
@@ -466,11 +466,8 @@ https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7u
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",Cinemax
 http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/71058.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO
+#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO (maintenance)
 http://103.113.116.150:25461/mtm1/12345/16
-
-#EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO 2
-http://iptvtree.net:8080/F26646/f950f250/197972
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP-HBOGROUP",HBO Family
 http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/1707.ts
