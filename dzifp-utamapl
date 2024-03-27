@@ -124,7 +124,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/kompascom/junEwyZDDv4q.gif" group-title="LOCAL",KOMPAS TV
-https://www.dropbox.com/scl/fi/rv945mpur6g0k5zx9i5c2/kompastv.m3u8?rlkey=qptpbz1gkk3w9iy9z1zqln5on&dl=1
+https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-id="metrotv.MACAN" tvg-logo="https://media.giphy.com/avatars/metrotv/pTjKnGjSPHM2.gif" tvg-name" Metro TV" group-title="LOCAL",METRO TV 
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
