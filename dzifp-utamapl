@@ -136,7 +136,7 @@ http://195.74.93.7:8070/F26646/f950f250/165059
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/03482dde94f412c017caafeaf85c9c76/368382-multi-media-channels-tv-world-indonesia-moji.gif" group-title="LOCAL",MOJI TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+http://103.127.96.91:25461/live/hometv@91/Wdk8VzyYTG/23.m3u8
 
 #EXTINF:-1 tvg-id="nettv.MACAN" tvg-logo="https://media2.giphy.com/media/QwmllAoe35biowjzbf/giphy.gif?cid=6c09b952f695d9b4ca2a8a7d568d9fcf065b376015f26b06&rid=giphy.gif&ct=s" group-title="LOCAL",NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
