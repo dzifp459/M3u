@@ -589,16 +589,16 @@ https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7u
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="animaxhd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png",ANIMAX ID 
-http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/60456.ts
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60456.m3u8
 
 #EXTINF:-1 tvg-id="aniplushd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="",BABY TV
 http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/2951.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png",BOOMERANG HD
-https://www.dropbox.com/scl/fi/8bof2eicvtyhsfrrxcght/boomerang.m3u8?rlkey=q52mnquq0r3z2inpsdv7cnpu2&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png",BOOMERANG (CARTOONITO)
+http://iptvtree.net:8080/live/c4596f70/c3848d92/165109.ts
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://cdn.macan.tv/img/cartoonnetwork.png",CARTOON NETWORK
-http://vo01.mohdtv.com:8880/live/ALLChannels681def200b53/80042143/71084.ts
+http://iptvtree.net:8080/live/c4596f70/c3848d92/157593.ts
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu66JNRG7C5J9Xb6EiR9JaFyD36BfBjvReA&usqp=CAU",CBEEBIES 
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60287.m3u8
@@ -613,31 +613,31 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",DREAMWORK
-https://www.dropbox.com/scl/fi/a3ytk7cj1epc9gdl2ehxx/dreamworks.m3u8?rlkey=fxy85xnyl65zkl9lss2aki88n&dl=1
+http://iptvtree.net:8080/live/c4596f70/c3848d92/157610.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Jcv3dBGP50LzhnBRtyUrzr7mLDQID9VXww&usqp=CAU",DUNIA ANAK HD
-http://iptvtree.net:8080/F26646/f950f250/264753
+http://iptvtree.net:8080/live/c4596f70/c3848d92/264753.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png",GARFIELD N FRIEND (MANUAL SET RES)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://lh3.googleusercontent.com/-_JaKgj2bzfY/WOTfrmmjYVI/AAAAAAAADTU/Z5ZHmQLUnNo/s640/%25255BUNSET%25255D.png",HOREE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+http://iptvtree.net:8080/live/c4596f70/c3848d92/264750.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://bit.ly/dzifp-hip2horee",HIP HIP HOREE
-http://iptvtree.net:8080/F26646/f950f250/264750
+http://iptvtree.net:8080/live/c4596f70/c3848d92/264750.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",INSPECTOR GADGET (MANUAL SET RES)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="",KIDS TV
-http://iptvtree.net:8080/F26646/f950f250/162505
+http://iptvtree.net:8080/live/c4596f70/c3848d92/162505.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2-PnujLA5Dwn0l1GWhO_R4YCSuWp04jmvA&usqp=CAU",LITTLE BABY BUM (MANUAL SET RES)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png",MENTARI TV
-http://iptvtree.net:8080/F26646/f950f250/298546
+http://iptvtree.net:8080/live/c4596f70/c3848d92/298546.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png",MIAOMI TV
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60347.m3u8
@@ -705,7 +705,7 @@ https://www.dropbox.com/scl/fi/vh5jc3i8w42u8khvcb56c/hgtv.m3u8?rlkey=2618bztiyuv
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60473.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3eKklntD83UWiwfeI9CmhVdEXWgrT269yg&usqp=CAU" group-title="KNOWLEDGES",HISTORY 2
-https://www.dropbox.com/scl/fi/pkx4qzesz3yslkumvh6co/history.m3u8?rlkey=h71dwzxe311rpi5ang269oeh7&dl=1
+http://iptvtree.net:8080/live/c4596f70/c3848d92/162519.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sqs5ihPUGW3ICy3pVrbsaMvru7BrqL4hsw&usqp=CAU" group-title="KNOWLEDGES",INSIGHT TV (MANUAL SET RES)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
