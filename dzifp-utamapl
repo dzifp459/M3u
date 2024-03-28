@@ -308,8 +308,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/arirang.m3u8
 #EXTINF:-1 tvg-id="beritasatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NEWS",BBC WORLD NEWS (MANUAL SET RES)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/bbcworldnews.m3u8
 
-#EXTINF:-1 tvg-id="beritasatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NEWS",BERITA SATU 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-id="beritasatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="NEWS",BERITA SATU WORLD
+http://iptvtree.net:8080/live/c4596f70/c3848d92/162136.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIkeTUbs9ZS1TyeWKLQrftOmJbQJCajwytYg&usqp=CAU" group-title="NEWS",BLOOMBERG 
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -681,7 +681,7 @@ https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7u
 https://www.dropbox.com/scl/fi/3ex6q167m1jr2rf0x8fic/animalplanet.m3u8?rlkey=43h2fhm6ok0qvxl1tnhte7j9g&dl=1
 
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-chno="610" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHahAzqjZpLrg4Iak7L0YtUc08EFSkolLMw&usqp=CAU" group-title="KNOWLEDGES",BBC EARTH
-https://www.dropbox.com/scl/fi/c91j364iignr6121lgb9q/bbcearth.m3u8?rlkey=ynjr7u218d0r1mvwu4npc169s&dl=1
+http://iptvtree.net:8080/live/c4596f70/c3848d92/165106.ts
 
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-chno="610" tvg-logo="https://s3.amazonaws.com/media.cloversites.com/d5/d5e52776-76a8-41be-8364-a71bb446eb5f/site-images/faa96b72-c4cc-4638-828d-7baa731570a4.png" group-title="KNOWLEDGES",BBC HOME (MANUAL SET RES)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
