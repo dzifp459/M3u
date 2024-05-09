@@ -1,8 +1,7 @@
 #EXTM3U 
-
 ##########ADMININFO###########
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",TeleGroup @zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",TeleGroup @zaltvku
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",Admin dzifpTV | wa+6289654144829 | Tele @DZIFP
@@ -32,6 +31,9 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 1 
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 2
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- BADMINTON --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
@@ -81,6 +83,13 @@ http://iptvtree.net:8080/live/c4596f70/c3848d92/298570.ts
 #EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 2
 http://iptvtree.net:8080/live/c4596f70/c3848d92/298571.ts
 
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- LALIGA --
+https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP|SPORTS-LIVE",Live 1
+https://fikarkerwwesd.store/live/abr_ch4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",-- TENNIS --
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
@@ -107,25 +116,37 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOCAL", RCTI
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOCAL", RCTI 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157591.ts
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOCAL", MNC TV
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+
+##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOCAL", MNC TV 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165054.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL", GTV
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOCAL", GTV 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157578.ts
+
 #EXTINF:-1 tvg-logo="" group-title="LOCAL", INEWS TV
 https://1a-inews.rctiplus.id/inews-sdi.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL", INEWS TV 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157579.ts
 
 #########################################################################
 
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://media1.giphy.com/media/YOewWZgopyydEuPwMr/giphy.gif?cid=6c09b952e1a8b4e520636f7b8631b0d3eaf17586c5334c9d&rid=giphy.gif&ct=s",ANTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="indosiar.MACAN" tvg-logo="https://media.tenor.com/nP2dS07qlCoAAAAC/indosiar-logo-indosiar.gif" group-title="LOCAL",INDOSIAR 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+#EXTINF:-1 tvg-id="indosiar.MACAN" tvg-logo="https://media.tenor.com/nP2dS07qlCoAAAAC/indosiar-logo-indosiar.gif" group-title="LOCAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.MACAN" tvg-logo="https://media.tenor.com/nP2dS07qlCoAAAAC/indosiar-logo-indosiar.gif" group-title="LOCAL",INDOSIAR 2
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162138.ts
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/kompascom/junEwyZDDv4q.gif" group-title="LOCAL",KOMPAS TV
 https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
@@ -142,8 +163,14 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/03482dde94f412c017caafeaf85c9c76/368382-multi-media-channels-tv-world-indonesia-moji.gif" group-title="LOCAL",MOJI TV 2
 http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
+#EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/03482dde94f412c017caafeaf85c9c76/368382-multi-media-channels-tv-world-indonesia-moji.gif" group-title="LOCAL",MOJI TV 3
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 tvg-id="nettv.MACAN" tvg-logo="https://media2.giphy.com/media/QwmllAoe35biowjzbf/giphy.gif?cid=6c09b952f695d9b4ca2a8a7d568d9fcf065b376015f26b06&rid=giphy.gif&ct=s" group-title="LOCAL",NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOCAL",RTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-id="sctv.MACAN" tv-name="SCTV" tvg-logo="https://media0.giphy.com/media/57YbiWTSsLgX0ZZWnp/200w.gif?cid=82a1493bm0q4pntclp2j1cwoj7elxqamyfcvzvjgw94m2d1m&rid=200w.gif&ct=s" group-title="LOCAL",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
@@ -165,7 +192,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 ##########DAERAH###########
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DAERAH",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DAERAH",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-id="Erz.Badartv" group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAjvtwGE7P4zIqR5DRXwbUZvQvtNRm7PUSA&usqp=CAU",ATVLI
@@ -297,7 +324,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 ######VIPNEWS#######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="NEWS",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="NEWS",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw4y8QojMKdONCeUC9nOiaKOqfq89uBE4_Q&usqp=CAU" group-title="NEWS",ABC NEWS AUSTRALIA (MANUAL SET RES)
@@ -369,7 +396,7 @@ http://cdrs.linknetott.aspirapps.net/channelgroup1/cg038production/ch400/index.m
 
 ######TVRI#########
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="TVRI",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="TVRI",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/300px-TVRILogo2019_OnAirScreen.svg.png",TVRI DKI
@@ -470,29 +497,47 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 #######VIPMOVIES######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="PREMIUM-MOVIES",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="PREMIUM-MOVIES",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",Cinemax
 http://iptvtree.net:8080/live/c4596f70/c3848d92/197964.ts
 
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",Cinemax 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197964.ts
+
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO
 http://iptvtree.net:8080/live/c4596f70/c3848d92/197972.ts
+
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197972.ts
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Family
 http://iptvtree.net:8080/live/c4596f70/c3848d92/197055.ts
 
+##EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Family 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/197055.ts
+
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Hits
 http://iptvtree.net:8080/live/c4596f70/c3848d92/196480.ts
 
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Hits 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/196480.ts
+
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Signature
 http://iptvtree.net:8080/live/c4596f70/c3848d92/221948.ts
+
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",HBO Signature 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/221948.ts
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",Paramount Network
 http://iptvtree.net:8080/live/c4596f70/c3848d92/298564.ts
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",WarnerTV
 http://iptvtree.net:8080/live/c4596f70/c3848d92/157594.ts
+
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",WarnerTV 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157594.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxDb1IatlDDovk4rItMezQ6qLtJbwXvDG9Q&usqp=CAU" group-title="PREMIUM-MOVIES",&Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
@@ -517,15 +562,6 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60471.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES", Cinema Wolrd
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="PREMIUM-MOVIES", Citra Bioskop (maintenance)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="PREMIUM-MOVIES", Citra Drama (maintenance)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="PREMIUM-MOVIES", Citra Entertainment (maintenance)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",Galaxy
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60375.m3u8
@@ -589,7 +625,7 @@ https://www.dropbox.com/scl/fi/qedjbsk3d2jzcmaz5mnez/zeecinema.m3u8?rlkey=z10s3n
 
 #####KIDS######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="KIDS",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="KIDS",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-id="animaxhd.MACAN" tvg-name="" group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png",AFTER SCHOOL CARTOON TV (MANUAL SET RES)
@@ -681,11 +717,11 @@ http://iptvtree.net:8080/live/F26646/f950f250/264751.m3u8
 
 ###KNOWLEDGES#####
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="KNOWLEDGES",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="KNOWLEDGES",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMF4BZO5XS8lJK3nAwsf17tW_jKeW7XhqirQ&usqp=CAU" group-title="KNOWLEDGES",ANIMAL PLANET 
-https://www.dropbox.com/scl/fi/3ex6q167m1jr2rf0x8fic/animalplanet.m3u8?rlkey=43h2fhm6ok0qvxl1tnhte7j9g&dl=1
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157532.ts
 
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-chno="610" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHahAzqjZpLrg4Iak7L0YtUc08EFSkolLMw&usqp=CAU" group-title="KNOWLEDGES",BBC EARTH
 http://iptvtree.net:8080/live/c4596f70/c3848d92/165106.ts
@@ -694,24 +730,18 @@ http://iptvtree.net:8080/live/c4596f70/c3848d92/165106.ts
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DySf5DgZ/logo-cgtndocumentary-big1.png" group-title="KNOWLEDGES",CGTN DOCUMENTARY 
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60342.m3u8
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298511.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphT-TWFFGIAP-W5dhkqHkrGd_ZJraTSiHmg&usqp=CAU" group-title="KNOWLEDGES",CRIME INVESTIGATION 
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60404.m3u8
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165052.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_TbWZVDP_3wYMDoD-MB54EKj1OmscR3F2A&usqp=CAU" group-title="KNOWLEDGES",DISCOVERY ASIA
-https://www.dropbox.com/scl/fi/7qt2e10e550l35k6c5q0b/discoveryasia.m3u8?rlkey=vqklhq6u1nlkqi0klavcpgqsi&dl=1
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_TbWZVDP_3wYMDoD-MB54EKj1OmscR3F2A&usqp=CAU" group-title="KNOWLEDGES",DISCOVERY CHANNEL
-https://www.dropbox.com/scl/fi/64mz7d1m3zzcms3jx45lx/discoverychannel.m3u8?rlkey=1zzc433vfbj8b8auk4lxxay96&dl=1
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGES",DISCOVERY WORLD
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/157597.ts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="KNOWLEDGES",HGTV 
-https://www.dropbox.com/scl/fi/vh5jc3i8w42u8khvcb56c/hgtv.m3u8?rlkey=2618bztiyuvomt06fo6cv31kd&dl=1
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298535.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3eKklntD83UWiwfeI9CmhVdEXWgrT269yg&usqp=CAU" group-title="KNOWLEDGES",HISTORY 
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60473.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3eKklntD83UWiwfeI9CmhVdEXWgrT269yg&usqp=CAU" group-title="KNOWLEDGES",HISTORY 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj3eKklntD83UWiwfeI9CmhVdEXWgrT269yg&usqp=CAU" group-title="KNOWLEDGES",HISTORY
 http://iptvtree.net:8080/live/c4596f70/c3848d92/162519.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sqs5ihPUGW3ICy3pVrbsaMvru7BrqL4hsw&usqp=CAU" group-title="KNOWLEDGES",INSIGHT TV (MANUAL SET RES)
@@ -719,12 +749,6 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvwKNJ92Y04TkXVzbAJAU8Bu-8rgMe3mDaSg&usqp=CAU" group-title="KNOWLEDGES",INWILD HD
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGES", LIFETIME
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60466.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGES", LIFETIME 2
-https://www.dropbox.com/scl/fi/ycvwkubj4mgmt22m1qaxz/lifetime.m3u8?rlkey=yn5xda8rc67isc7q1wpfrie9c&dl=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="KNOWLEDGES",LOVE NATURE 4k 
 https://www.dropbox.com/scl/fi/qgvyvl251sr8zaz1yrzt8/lovenature.m3u8?rlkey=vc7v3bdo9fdg50ayt7tcpxwv1&dl=1
@@ -755,17 +779,17 @@ http://iptvtree.net:8080/live/87b43fb3/d8db7a3d96/165086.ts
 
 ######SPORTSID#######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP VIP|SPORTS ID",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP VIP|SPORTS ID",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT
-http://iptvtree.net:8080/live/F26646/f950f250/165105.ts
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/165105.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS ID", BEIN SPORT 3
-http://iptvtree.net:8080/live/F26646/f950f250/298506.ts
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298506.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="DZIFP VIP|SPORTS ID", Fight Sport
-https://www.dropbox.com/scl/fi/m22c2mrwm125qurpd95xz/fightsports.m3u8?rlkey=n0epg7joe8hz3b6qyjapolst8&dl=1
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/298531.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS ID", MNC SPORTS HD
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/60357.m3u8
@@ -788,11 +812,8 @@ http://iptvtree.net:8080/live/c4596f70/c3848d92/298571.ts
 
 #####VIPSPORTS#######
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
-
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", A SPORT TR
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14824_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", ABU DHABI SPORT 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
@@ -815,44 +836,53 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgba/master.m3u8
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", AL KASS SPORT 5 AR
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgba/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", AUTO MOTOR SPORT BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61759_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", ASTRO ARENA
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1703.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", AUTOMOTO TV BG
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61760_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", ASTRO ARENA 2
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1696.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", ASTRO CRICKET
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=1036490&extension=ts&play_token=GVZS088tcf
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/71109.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", ASSP 1
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1722.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/59220.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", ASSP 2
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1721.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/59219.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", ASSP 3
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1720.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/59218.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", ASSP 4
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/1719.m3u8
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/59217.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 1 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 1 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193741
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 2 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46256.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/171883.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 3 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 3 
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/3463.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 4 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46254.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 4
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/3465.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 5 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46253.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 5
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/3464.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 6 HD
-http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/46252.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport 6 
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/36922.ts
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 1
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/285558.ts
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 2
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/285559.ts
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 3
+http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/285560.ts
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT 1
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2943.m3u8
@@ -866,11 +896,11 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2941.m3u8
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS",BT SPORT ESPN
 http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2940.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DAZN 1 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37069_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DAZN 1
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2659.m3u8
 
-#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DAZN 2 DE
-http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=37070_&extension=ts
+#EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DAZN 2
+http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/2658.m3u8
 
 #EXTINF:-1 tvg-logo="https://down-my.img.susercontent.com/file/86bddc0cc6918bafa8118b216055a984" group-title="DZIFP VIP|SPORTS", DIGI SPORTS 1
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
@@ -1220,7 +1250,7 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/31500.m3u8
 
 #########DZIFP-BEINSPORTSGROUP#######
 
-#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="" group-title="DZIFP VIP | BEINSPORTS-GROUP", ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="" group-title="DZIFP VIP | BEINSPORTS-GROUP", ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="" group-title="DZIFP VIP | BEINSPORTS-GROUP", BN002:BeIN Sport 1 HD
@@ -1293,7 +1323,7 @@ http://kmkus.wanicelife.com:8880/live/3ca05163n16/76tgs8vsv/5926.m3u80
 ###ENTERTAINMENT&LIFESTYLE##
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT&LIFESTYLE",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT&LIFESTYLE",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT&LIFESTYLE" tvg-logo="https://asiatoday.id/wp-content/uploads/2020/07/PicsArt_07-27-03.08.43-750x355.png",ASIAN FOOD NETWORK
@@ -1329,7 +1359,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d4fb828c9400077133
 
 #####MUSIC#####
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="MUSIC" tvg-id="" tvg-name"MTV Live ",MTV Biggest Pop
@@ -1391,7 +1421,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007
 
 #######RELIGI#####
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGI",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="RELIGI",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="RELIGI",===> Budhist Not 24/7 <===
@@ -1474,7 +1504,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
 
 ######AUSTRALIA##########
 
-#EXTINF:-1 tvg-logo="" group-title="Australia ",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="Australia ",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF: -1 tvg-name="Clubbing TV (Australia)" tvg-logo="https://bit.ly/2WYoSPM" group-title="Australia ", Clubbing TV (Australia)
@@ -1557,7 +1587,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ######ARAB##########
 
-#EXTINF:-1 tvg-logo="" group-title="ARAB",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="ARAB",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1-6J3VMgxuQOJ7CAfVCAaWCG3-OmGLySf&export=view" group-title="ARAB",MBC 5 
@@ -1634,7 +1664,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
 #####Malaysia######
 
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.postimg.cc/BbJTp9KS/Malaysia.png",AOD-512
@@ -1719,7 +1749,7 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/171953.ts
 
 ####CHINA#####
 
-#EXTINF:-1 tvg-logo="" group-title="CHINA",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="CHINA",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 
@@ -1785,7 +1815,7 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 #####Japan#####
 
-#EXTINF:-1 tvg-logo="" group-title="Japan",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="Japan",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 
@@ -1913,7 +1943,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 
 #####Korea######
 
-#EXTINF:-1 tvg-logo="" group-title="Korea",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="" group-title="Korea",ADMIN DZIFP TV | t.me/@zaltvku
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
 
@@ -1968,7 +1998,7 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/145049.ts
 
 #######VOD#############
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="<-- MASUK TV| DZIFP_VIP |MASUK VOD -->",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="<-- MASUK TV| DZIFP_VIP |MASUK VOD -->",ADMIN DZIFP TV | t.me/@zaltvku
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 ###################################2023BARU#####################
@@ -2042,7 +2072,7 @@ https://cdn.onesidesone.workers.dev/0:/TheGdriveXbot/Hunger(2023).mp4
 
 #####VOD2023#######
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="VOD 2023",ADMIN DZIFP TV | t.me/@zaltvq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="VOD 2023",ADMIN DZIFP TV | t.me/@zaltvku
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbNe3-VpbcSQhylc-7QxVQt4VHmij7c3iup5K7QIDzZH-wxuJgKLr1-A&s=10" group-title="VOD 2023",Alien Invansion (2023)
