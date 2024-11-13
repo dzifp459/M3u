@@ -16,6 +16,7 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",Mau Join Investasi 10% Perminggu !PM Admin!
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
+
 #########SPORTSLIVE#########
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",WA+6289654144829 | Tele @DZIFP 
@@ -24,8 +25,6 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",Beberapa Terbuka Saat Live Saja! 
 https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",MAINTENANCE!LANGSUNG SPORTS SAJA
-https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MOcfpqcyPD6bfx34zUeeBPiVUj0ivEGhiJ8P8uPFJLT6r2fbHlSz6UmssrAtOE-JiC1U83Vq8XkNWM_MrQyyHSFjY0T-VEDI2FDiPJeG7Ie6itc4IU93qMI3eWITkZcEGm3t7uK2fYLoBrizc32WzBUtOF2rp9aZsMwSeF7Rgd8A
 
 ########DZIFPLOCAL##########
 
@@ -36,30 +35,30 @@ https://fhfemq.dm.files.1drv.com/y4m5PCZxf1O1hBg8xfJS0xgk-nEQdw7hJ9tZ_gJZ2oOj4MO
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSao8NmPy44ks0wkh24SQJXDLAcD369mm57FS1p6f3l1G4FNhjZ1EoGwQs&s=10" group-title="LOCAL", RCTI Backup
-http://xtv.ooo:8080/live/83212539/43153928/351023.m3u8
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2d9G4qCi1YEZOZuDwvtcwmdo2zuRUYjA9Wvr1-coLQ&s" group-title="LOCAL", MNC TV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2d9G4qCi1YEZOZuDwvtcwmdo2zuRUYjA9Wvr1-coLQ&s" group-title="LOCAL", MNC TV Backup
-http://xtv.ooo:8080/live/83212539/43153928/350996.m3u8
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1en6MihrRWsvzsI9bqSBvOekQ1lfJ0Rwsi3_T5UpHA&s" group-title="LOCAL", GTV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1en6MihrRWsvzsI9bqSBvOekQ1lfJ0Rwsi3_T5UpHA&s" group-title="LOCAL", GTV Backup
-http://xtv.ooo:8080/live/83212539/43153928/350954.m3u8
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitikg4XADqXoqrURE9r87ykIBJ8Zon1JRVIXJHMNRHVSQO83OTYIXMCQ&s=10" group-title="LOCAL", INEWS TV
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSitikg4XADqXoqrURE9r87ykIBJ8Zon1JRVIXJHMNRHVSQO83OTYIXMCQ&s=10" group-title="LOCAL", INEWS TV Backup
-http://xtv.ooo:8080/live/83212539/43153928/350973.m3u8
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 ####################################
 
-#EXTINF:-1 group-title="LOCAL" tvg-logo="https://media1.giphy.com/media/YOewWZgopyydEuPwMr/giphy.gif?cid=6c09b952e1a8b4e520636f7b8631b0d3eaf17586c5334c9d&rid=giphy.gif&ct=s",ANTV 
-http://xtv.ooo:8080/live/83212539/43153928/350892.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://media1.giphy.com/media/YOewWZgopyydEuPwMr/giphy.gif?cid=6c09b952e1a8b4e520636f7b8631b0d3eaf17586c5334c9d&rid=giphy.gif&ct=s",ANTV
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.MACAN" tvg-logo="https://media.tenor.com/nP2dS07qlCoAAAAC/indosiar-logo-indosiar.gif" group-title="LOCAL",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -68,7 +67,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/350972.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/kompascom/junEwyZDDv4q.gif" group-title="LOCAL",KOMPAS TV
-http://xtv.ooo:8080/live/83212539/43153928/350984.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 #EXTINF:-1 tvg-id="metrotv.MACAN" tvg-logo="https://media.giphy.com/avatars/metrotv/pTjKnGjSPHM2.gif" tvg-name" Metro TV" group-title="LOCAL",METRO TV 
 http://xtv.ooo:8080/live/83212539/43153928/350990.m3u8
@@ -91,8 +90,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="sctv.MACAN" tv-name="SCTV" tvg-logo="https://media0.giphy.com/media/57YbiWTSsLgX0ZZWnp/200w.gif?cid=82a1493bm0q4pntclp2j1cwoj7elxqamyfcvzvjgw94m2d1m&rid=200w.gif&ct=s" group-title="LOCAL",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 tvg-id="trans7.MACAN" tv-name="Trans7" tvg-logo="https://media1.giphy.com/media/LkMrq2j7YdWFNy5QaB/giphy.gif?cid=6c09b9526c14ce96a3e30ddb5cd6ef4ce86c3462636e2bcd&rid=giphy.gif&ct=s" group-title="LOCAL",TRANS 7 
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
 #EXTINF:-1 tvg-id="trans7.MACAN" tv-name="Trans7" tvg-logo="https://media1.giphy.com/media/LkMrq2j7YdWFNy5QaB/giphy.gif?cid=6c09b9526c14ce96a3e30ddb5cd6ef4ce86c3462636e2bcd&rid=giphy.gif&ct=s" group-title="LOCAL",TRANS 7 TRANSMEDIA HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1718281498_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="transtv.MACAN" tvg-logo="https://www.transtv.co.id/template/countdown/source/images/wcfix.gif" tvg-name" TRANS TV" group-title="LOCAL",TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="transtv.MACAN" tvg-logo="https://www.transtv.co.id/template/countdown/source/images/wcfix.gif" tvg-name" TRANS TV" group-title="LOCAL",TRANS TV TRANSMEDIA HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
@@ -413,20 +418,38 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="PREMIUM-MOVIES",ADMIN DZIFP TV | t.me/@zaltvq
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
+#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES",BOO
+http://103.148.77.27:8008/live/DZqjznfyyn/3Q9O2vucT6/37457.ts?token=QhBYV0dYRg4TCAUBUVRUVlVVVQQAWwADCFFUBVVXUAQMVFMCA1FSVwIaSBAQEEJXVQhvWgIbCVYOAAUGTRQUEVxAb19QEl4WAAhQBldXEh4WEVleAxsJVA4HAAFWAVNTDB4SRl1URg4TCVMFVFYSHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATW1gUDlUeElRdRBZVRV1GCEFVBgcBRxwRBVZGC01GSRNbFCgmGx4SU0xEAVpCUQtcQV4SRkdHHBEPSmwXXEdEQwRXDAdLEAoUBRJIFlxZHG0AC15cUQZEWglXQEcDFgATTRQMDVdbRFlGbxRdVRpeEFFdAQUDR00=
+
 #EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="PREMIUM-MOVIES",Cinemax
 http://xtv.ooo:8080/live/83212539/43153928/350922.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="PREMIUM-MOVIES",Cinemax 2
+http://103.148.77.27:8008/DZqjznfyyn/3Q9O2vucT6/2156?token=QhBYV0dYRg4TAVcDBV0HVwYEAwsDCAQGXA1RAVgOBVQIUFQPVlIHBwQaSBAQEEJXVQhvWgIbCVcIAQYdQ0MSB0ttWVIWCkYFAQxQBlBGHBBADF1WRAMCUgoEAAZUBVdQFRBAX1ASXhYDAVcLVUYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILD0MNDhUQUl9AQgVAVBpeEFFWBgYWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIHFhxGWVBAO1EMCl5XVxFZXAhKEV8bBBIdQ1sODFBGX0RrQA1QEwJGA1ZSCQEWGA==
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="PREMIUM-MOVIES",HBO
 http://xtv.ooo:8080/live/83212539/43153928/350955.m3u8
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="PREMIUM-MOVIES",HBO 2
+http://103.148.77.27:8008/DZqjznfyyn/3Q9O2vucT6/210?token=QhBYV0dYRg4TXQFWVgUHCwBcAVBeWAUEDgMGBlEAUlABClNQBgBQUFAaSBAQEEJXVQhvWgIbCVcIBBwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAgEVgkEBwVVB1NOG0JZUhYKRg0ADlMQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpWA1RVEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAxIaFl0FTG5bC1wNAVNGXQpeQEQDEVUbGBJcDlgIFlZAb0ZdVEYOEwlRAlddEk8=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM-MOVIES",HBO Family
 http://xtv.ooo:8080/live/83212539/43153928/350956.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM-MOVIES",HBO Family 2
+http://103.148.77.27:8008/DZqjznfyyn/3Q9O2vucT6/592?token=QhBYV0dYRg4TCAAABwZVBgwEUgRRWgZVDlIHUFgEUwcJBVQHUAJVUlQaSBAQEEJXVQhvWgIbCVAABhwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAgEVgkEBwRQAldOG0JZUhYKRgUBAFYQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpVC1BdEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAxIaFl0FTG5bC1wNAVNGXQpeQEQDEVUbGBJcDlgIFlZAb0ZdVEYOEwlVC1tREk8=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM-MOVIES",HBO Hits
 http://xtv.ooo:8080/live/83212539/43153928/350957.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM-MOVIES",HBO Hits 2
+http://103.148.77.27:8008/DZqjznfyyn/3Q9O2vucT6/591?token=QhBYV0dYRg4TAVELBQIFUwAEB1JeCwtUXFUDBVlUAFAKAAMDUQZdAlUaSBAQEEJXVQhvWgIbCVAABRwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAgEVgkEBwRTBVVOG0JZUhYKRg0BDEYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwpUClpGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AIEBwUWVEca1JXClwGB0RbWwtDEVwbA0cVFl1eD18VDUttQF9QEl4WAAldBVtGTQ==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="PREMIUM-MOVIES",HBO Signature
 http://xtv.ooo:8080/live/83212539/43153928/350958.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="PREMIUM-MOVIES",HBO Signature 2
+http://103.148.77.27:8008/DZqjznfyyn/3Q9O2vucT6/873?token=QhBYV0dYRg4TWQBRUQYABwYAVVcACFIBXwUHUlQHVQMNBFIFBwJXVQgaSBAQEEJXVQhvWgIbCV0OBxwTFEUEEGZbVBQOElUEBQxQAUFIEkZdCFURXAgEVgkEBwRTD1JOG0JZUhYKRgYJAVwCQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGAFFdARAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAEUGBIJVUlnB10NClVRQAxfXRUbCUcJFhwTDFkPC01dQmlEWQAWCxpVB1pTCRBJ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNTCMnBCUx_qrdZGxXeLnfnTQbxnppsBskEEorZBnwIk3ur4b08WomwA&s=10" group-title="PREMIUM-MOVIES",Paramount Network
 http://xtv.ooo:8080/live/83212539/43153928/351019.m3u8
@@ -435,7 +458,7 @@ http://xtv.ooo:8080/live/83212539/43153928/351019.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/351059.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="PREMIUM-MOVIES", AXN 
-http://xtv.ooo:8080/live/83212539/43153928/350895.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="PREMIUM-MOVIES", CCM
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
@@ -447,13 +470,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/350921.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTEeTIKTLYU2kDjmALcLTlv1ngV7mUPyAnYuBuJ8a_FRXRnEBtie3Lsw&s=10" group-title="PREMIUM-MOVIES",FLIK
-http://xtv.ooo:8080/live/83212539/43153928/350947.m3u8
+http://41.216.178.194:8008/XtreamFlixID/w9RLHbWJY4/29592?token=QhBYV0dYRg4TDVZWW1JWUAUAVFEECFcECVAGBlRQBwcKV1YGUlRdDVQaSBAQEEJXVQhvWgIbCVcAAQkDTRQUEVxAb19QEl4WAAhXAVBdEh4WEVleAxsJVA4HAAFWD1RSCR4SRl1URg4TAVYBVlASHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATW1gUDlUeElRdRBZVRV1GCEFXCQIMRxwRBVZGC01GSRNbFCgmGx4SU0xEAVpCUQtcQV4SRkdHHBEPSmwXXEdEQwRXDAdLEAoUBRJIFlxZHG0AC15cUQZEWglXQEcDFgEEURRNQFRdXl9AXxZrQVEAEFlGAQAMVQQKREQ=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWt9p4ndI1h1P6hF_s-iFJDVXt7KeDmOw7A&usqp=CAU" group-title="PREMIUM-MOVIES",Galaxy
-http://xtv.ooo:8080/live/83212539/43153928/350950.m3u8
+http://41.216.178.194:8008/XtreamFlixID/w9RLHbWJY4/29604?token=QhBYV0dYRg4TAV1TVQUCBQAABAEDXAQBWlIIVQAOBFMLAABQAAYGVlcaSBAQEEJXVQhvWgIbCVcAAgAFTRQUEVxAb19QEl4WAAhXAVBdEh4WEVleAxsJVA4HAAFWD1RXCx4SRl1URg4TAVQAVFISHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATW1gUDlUeElRdRBZVRV1GCEFVAAUBRxwRBVZGC01GSRNbFCgmGx4SU0xEAVpCUQtcQV4SRkdHHBEPSmwXXEdEQwRXDAdLEAoUBRJIFlxZHG0AC15cUQZEWglXQEcDFgEEURRNQFRdXl9AXxZrQVEAEFlGAQADXQcHREQ=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWt9p4ndI1h1P6hF_s-iFJDVXt7KeDmOw7A&usqp=CAU" group-title="PREMIUM-MOVIES",Galaxy Premium
-http://xtv.ooo:8080/live/83212539/43153928/350951.m3u8
+http://41.216.178.194:8008/XtreamFlixID/w9RLHbWJY4/29603?token=QhBYV0dYRg4TCwcBUVAAC1IEBwpQX1EBWFVWAwMGVgRYClRTDFZTBAAaSBAQEEJXVQhvWgIbCVcAAgACTRQUEVxAb19QEl4WAAhXAVBdEh4WEVleAxsJVA4HAAFWD1RbCR4SRl1URg4TAVQGW1MSHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATW1gUDlUeElRdRBZVRV1GCEFcAAcWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIHFhxGWVBAO1EMCl5XVxFZXAhKEV8bBQUBQxpDD1ZcWUJbQjtEWFxGCEFVAgUMUAgRGw==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwe37iHPkTSt9Zvl85bbc6M9vEnVrfhDLdjX7kUtLTnw&s" group-title="PREMIUM-MOVIES",Gem
 http://xtv.ooo:8080/live/83212539/43153928/350952.m3u8
@@ -492,7 +515,7 @@ http://xtv.ooo:8080/live/83212539/43153928/351027.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/351017.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5e4vEk8iNw7BdQubJUDT1S5jlZMNO4lqbug&usqp=CAU" group-title="PREMIUM-MOVIES", THRILL
-http://xtv.ooo:8080/live/83212539/43153928/351038.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYf__vdZNsbOzK9bhGEQFRlu2ydWaKGLSNrjeUUgwkrBZdEVMY3NzurE5o&s=10" group-title="PREMIUM-MOVIES", TVN
 http://xtv.ooo:8080/live/83212539/43153928/351045.m3u8
@@ -660,14 +683,20 @@ https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="DZIFP VIP|SPORTS ID", Fight Sport
 http://xtv.ooo:8080/live/83212539/43153928/347284.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGtRSdoxH8mxDCQOgXjWrVaaKJVccL1Ar3g&usqp=CAU" group-title="DZIFP VIP|SPORTS ID", SPORTSTAR
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGtRSdoxH8mxDCQOgXjWrVaaKJVccL1Ar3g&usqp=CAU" group-title="DZIFP VIP|SPORTS ID", SPORTSTAR 2 
 https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGtRSdoxH8mxDCQOgXjWrVaaKJVccL1Ar3g&usqp=CAU" group-title="DZIFP VIP|SPORTS ID", SPORTSTAR 2 BACKUP
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGtRSdoxH8mxDCQOgXjWrVaaKJVccL1Ar3g&usqp=CAU" group-title="DZIFP VIP|SPORTS ID", SPORTSTAR 4
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLPEImXZTAB2a5BY7HLBdLHSHp-JNY-RSIG7zgrhuGw&s" group-title="DZIFP VIP|SPORTS ID",SPOTV 1
-http://xtv.ooo:8080/live/83212539/43153928/350900.m3u8
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUzN3p0U6uB0AXlUHWdBIrftasGVzUa4TsDail_hPqpAMqVmJfqVlPk5T&s=10" group-title="DZIFP VIP|SPORTS ID",SPOTV 2
 http://xtv.ooo:8080/live/83212539/43153928/350901.m3u8
@@ -691,52 +720,52 @@ http://xtv.ooo:8080/live/83212539/43153928/352081.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/352083.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="DZIFP VIP|SPORTS", ASSP 1
-http://xtv.ooo:8080/live/83212539/43153928/352087.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/656970.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="DZIFP VIP|SPORTS", ASSP 2
-http://xtv.ooo:8080/live/83212539/43153928/352088.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/656971.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="DZIFP VIP|SPORTS", ASSP 3
-http://xtv.ooo:8080/live/83212539/43153928/352089.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/656972.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="DZIFP VIP|SPORTS", ASSP 4
-http://xtv.ooo:8080/live/83212539/43153928/352090.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/656973.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="DZIFP VIP|SPORTS", ASSP 5
 http://xtv.ooo:8080/live/83212539/43153928/352091.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="DZIFP VIP|SPORTS", Arena Sport 1 
-http://xtv.ooo:8080/live/83212539/43153928/353725.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/719885.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="DZIFP VIP|SPORTS", Arena Sport 2
-http://xtv.ooo:8080/live/83212539/43153928/353726.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/719887.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="DZIFP VIP|SPORTS", Arena Sport 3 
-http://xtv.ooo:8080/live/83212539/43153928/353727.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/719888.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="DZIFP VIP|SPORTS", Arena Sport 4
-http://xtv.ooo:8080/live/83212539/43153928/353728.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/104502.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVBRPTd0qYaQae-MVc1llIWIP_G1u78f48g&usqp=CAU" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 1
-http://xtv.ooo:8080/live/83212539/43153928/353722.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1445811.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVBRPTd0qYaQae-MVc1llIWIP_G1u78f48g&usqp=CAU" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 2
-http://xtv.ooo:8080/live/83212539/43153928/353723.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1445812.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVBRPTd0qYaQae-MVc1llIWIP_G1u78f48g&usqp=CAU" group-title="DZIFP VIP|SPORTS", Arena Sport Premium 3
-http://xtv.ooo:8080/live/83212539/43153928/353724.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1445813.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXgWpF6YIdp0ZsizIWf7pmC_kvqaQX_G23Q&usqp=CAU" group-title="DZIFP VIP|SPORTS", DAZN 1
-http://xtv.ooo:8080/live/83212539/43153928/233072.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461429.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXgWpF6YIdp0ZsizIWf7pmC_kvqaQX_G23Q&usqp=CAU" group-title="DZIFP VIP|SPORTS", DAZN 2
-http://xtv.ooo:8080/live/83212539/43153928/233075.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461431.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXgWpF6YIdp0ZsizIWf7pmC_kvqaQX_G23Q&usqp=CAU" group-title="DZIFP VIP|SPORTS", DAZN 3
-http://xtv.ooo:8080/live/83212539/43153928/233078.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461433.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXgWpF6YIdp0ZsizIWf7pmC_kvqaQX_G23Q&usqp=CAU" group-title="DZIFP VIP|SPORTS", DAZN 4
-http://xtv.ooo:8080/live/83212539/43153928/233080.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461435.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNfWKDsz_lIKKMiDtb405iftgDiHYsjqDNHT3crRshI4Tqkm32pj69l_Q&s=10" group-title="DZIFP VIP|SPORTS", Eleven Sports 1 
 http://xtv.ooo:8080/live/83212539/43153928/352795.m3u8
@@ -768,6 +797,27 @@ http://xtv.ooo:8080/live/83212539/43153928/352404.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcSWd9Hn2-0jVziOToyr1gWbQ6H5H4d14Hb49v94-XCBj0O2haYeizQlh&s=10" group-title="DZIFP VIP|SPORTS", EUROSPORT 2
 http://xtv.ooo:8080/live/83212539/43153928/352405.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 501
+http://xtv.ooo:8080/live/83212539/43153928/348210.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 502
+http://xtv.ooo:8080/live/83212539/43153928/348211.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 503
+http://xtv.ooo:8080/live/83212539/43153928/348212.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 504
+http://xtv.ooo:8080/live/83212539/43153928/348213.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 505
+http://xtv.ooo:8080/live/83212539/43153928/348214.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 506
+http://xtv.ooo:8080/live/83212539/43153928/348215.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZIFP VIP|SPORTS", FOX SPORTS 507
+http://xtv.ooo:8080/live/83212539/43153928/348216.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItqdrLseNVS4DxH9rq1SITvoYmElUFT80iHSREJYVLA&s" group-title="DZIFP VIP|SPORTS", MOTORVISION TV 
 http://tvd.naam.ro:2082/live/123456789/987654321/17803.m3u8
 
@@ -790,22 +840,22 @@ http://xtv.ooo:8080/live/83212539/43153928/350103.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/350104.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports Arena
-http://xtv.ooo:8080/live/83212539/43153928/346378.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/105970.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports Action 
-http://xtv.ooo:8080/live/83212539/43153928/346377.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/732857.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports Cricket 
 http://xtv.ooo:8080/live/83212539/43153928/346379.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports F1
-http://xtv.ooo:8080/live/83212539/43153928/346380.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/105974.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports Golf
-http://xtv.ooo:8080/live/83212539/43153928/346381.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/638322.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydCY3QkYsVfpNXyg15FinuNDV2EIUnvJivwQUhnxjcaMyczOrNow5Lgg&s=10" group-title="DZIFP VIP|SPORTS",Sky Sports PremierLeague 
-http://xtv.ooo:8080/live/83212539/43153928/350425.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/638318.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1280px-Sony_TEN_logo.png" group-title="DZIFP VIP|SPORTS", SONY TEN SPORT 1 
 http://xtv.ooo:8080/live/83212539/43153928/167570.m3u8
@@ -820,13 +870,13 @@ http://xtv.ooo:8080/live/83212539/43153928/167572.m3u8
 http://xtv.ooo:8080/live/83212539/43153928/167595.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aAgAYQdN0oQwA14KaOc7nYPrSDHEw-a3ikpJAVH2tVzmwyIpyy5Ik1O&s=10" group-title="DZIFP VIP|SPORTS", TNT SPORTS 1
-http://xtv.ooo:8080/live/83212539/43153928/346373.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461005.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aAgAYQdN0oQwA14KaOc7nYPrSDHEw-a3ikpJAVH2tVzmwyIpyy5Ik1O&s=10" group-title="DZIFP VIP|SPORTS", TNT SPORTS 2
-http://xtv.ooo:8080/live/83212539/43153928/346374.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1461006.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aAgAYQdN0oQwA14KaOc7nYPrSDHEw-a3ikpJAVH2tVzmwyIpyy5Ik1O&s=10" group-title="DZIFP VIP|SPORTS", TNT SPORTS 3
-http://xtv.ooo:8080/live/83212539/43153928/346375.m3u8
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1462040.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aAgAYQdN0oQwA14KaOc7nYPrSDHEw-a3ikpJAVH2tVzmwyIpyy5Ik1O&s=10" group-title="DZIFP VIP|SPORTS", TNT SPORTS 4 ESPN
 http://xtv.ooo:8080/live/83212539/43153928/346376.m3u8
@@ -839,35 +889,35 @@ http://xtv.ooo:8080/live/83212539/43153928/383065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="||AR.BEIN|| BEIN SPORTS 3 HD" tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP", ADMIN DZIFP TV | t.me/@zaltvq
 https://zu0qzw.am.files.1drv.com/y4mdijY5fMUXZ3Kf31n9bevA8qEc3cDmbNiEqWUgyXmds7uMVpUYr2jZd7N0_3WDfhDNvB4KOoeeDMcyS6pjSZafUYkkdrA7QlFiSWdAFAJRHtLID-IjxtwnIvaLQdnXTjhihFf6u6DW-k10s8DRVE_jekJN2ClCChO6Y26H3wacwdGcoB7Kf35a1xhqLuISrBLLWQyCr5CIDC0t2aspW5q4A
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 1 HD
-http://xtv.ooo:8080/live/83212539/43153928/353014.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 1 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478754.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 2 HD
-http://xtv.ooo:8080/live/83212539/43153928/353015.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 2 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478756.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 3 HD
-http://xtv.ooo:8080/live/83212539/43153928/353016.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 3 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478758.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 4 HD
-http://xtv.ooo:8080/live/83212539/43153928/353017.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 4 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478760.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 5 HD
-http://xtv.ooo:8080/live/83212539/43153928/353018.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 5 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478762.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 6 HD
-http://xtv.ooo:8080/live/83212539/43153928/353019.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 6 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478764.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport 7 HD
-http://xtv.ooo:8080/live/83212539/43153928/353020.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport 7 HD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478766.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport Eng 1
-http://xtv.ooo:8080/live/83212539/43153928/353021.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport Eng 1
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478772.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport Eng 2
-http://xtv.ooo:8080/live/83212539/43153928/353022.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport Eng 2
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/1478774.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",ARB:BeIN Sport Eng 3
-http://xtv.ooo:8080/live/83212539/43153928/353023.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/5m1i5tb42u2bkubs8drl2/20240512_010843.jpg?rlkey=xl53px679qwfv0v87lsyvahr3&dl=1" group-title="DZIFP VIP | BEINSPORTS-GROUP",BeIN Sport UHD
+http://m1-max.dns-speedy.com/live/JOSHUAUGO5386/506D4C/897568.m3u8
 
 ###ENTERTAINMENT&LIFESTYLE##
 
