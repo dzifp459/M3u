@@ -25,6 +25,17 @@ https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=ak
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="DZIFP|SPORTS-LIVE",Beberapa Terbuka Saat Live Saja! 
 https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpg8BLx0vBtbjDN3oe8EBVGpnJqqkdXLEf7vGWTnIuZTELZZwXLfT1Hug-&s=10" group-title="DZIFP|SPORTS-LIVE",INDONESIA VS LAOS
+https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 1
+https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 2
+http://extraott.com/live/6945574629/7169628753/400200724.m3u8
+
+
+
 ########DZIFPLOCAL##########
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="LOCAL",Admin WA+6289654144829 | Tele @DZIFP
@@ -444,17 +455,20 @@ http://xtv.ooo:8080/live/827281020/827292929/351059.m3u8
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="PREMIUM-MOVIES", AXN 
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9-Q7FgmTy_9Frl_BEjxEGuDrwnLK4bcPghzPI3af8_wlfx2WoaYLrE8&s=10" group-title="PREMIUM-MOVIES", BIOSKOP INDONESIA
+http://mag.king-4k.cc/00447341550145nigel2/45C411/1505817
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="PREMIUM-MOVIES", CCM
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+http://rr3.dens.tv/s/s31/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xxikBll7v0iqK0MOf98e4xBgLHF8vqZfdTrhLF9TMJFWe17g2ZTJ_KA&s=10" group-title="PREMIUM-MOVIES", CELESTIAL MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h14/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTrG5oH4LHQTkNeN1fvN2tGmoCir4pzv5SQ&usqp=CAU" group-title="PREMIUM-MOVIES", Cinema Wolrd
 http://xtv.ooo:8080/live/827281020/827292929/350921.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTEeTIKTLYU2kDjmALcLTlv1ngV7mUPyAnYuBuJ8a_FRXRnEBtie3Lsw&s=10" group-title="PREMIUM-MOVIES",FLIK
-http://41.216.178.194:8008/XtreamFlixID/w9RLHbWJY4/29592?token=QhBYV0dYRg4TDVZWW1JWUAUAVFEECFcECVAGBlRQBwcKV1YGUlRdDVQaSBAQEEJXVQhvWgIbCVcAAQkDTRQUEVxAb19QEl4WAAhXAVBdEh4WEVleAxsJVA4HAAFWD1RSCR4SRl1URg4TAVYBVlASHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATW1gUDlUeElRdRBZVRV1GCEFXCQIMRxwRBVZGC01GSRNbFCgmGx4SU0xEAVpCUQtcQV4SRkdHHBEPSmwXXEdEQwRXDAdLEAoUBRJIFlxZHG0AC15cUQZEWglXQEcDFgEEURRNQFRdXl9AXxZrQVEAEFlGAQAMVQQKREQ=
+http://mag.king-4k.cc/00447341550145nigel2/45C411/1505833
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWt9p4ndI1h1P6hF_s-iFJDVXt7KeDmOw7A&usqp=CAU" group-title="PREMIUM-MOVIES",Galaxy
 http://xtv.ooo:8080/live/827281020/827292929/350950.m3u8
@@ -480,20 +494,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsbfwy7jV2cRwfEp72ZXP4tlGk0SVdn07Og&usqp=CAU" group-title="PREMIUM-MOVIES", My Cinema Asia
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MXixhYkMC9Z1LnnjLoIc2mxZnAGZFmeGkg&usqp=CAU" group-title="PREMIUM-MOVIES", My Cinema Eroupe
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiemcs7BCfravC48_oF8HnQ4GRMIYcj8t3-fnZ_ofnb75ULwPBAcoXtS5h&s=10" group-title="PREMIUM-MOVIES", My Family Channel
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStV-lz65bNlpqAoUonF6TM9S_-opSpsc8NfQid45UFIQ&s" group-title="PREMIUM-MOVIES", Rock Action
-http://xtv.ooo:8080/live/827281020/827292929/351025.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h15/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275428904%27&EntityType=%27Item%27&EntityId=%27227348%27&Width=1024&Height=1024" group-title="PREMIUM-MOVIES", Rock Entertainment
-http://xtv.ooo:8080/live/827281020/827292929/351026.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM-MOVIES", Rock Extreme
-http://xtv.ooo:8080/live/827281020/827292929/351027.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEa-2xVNG98EwS6hRjgzQPGFhPDEOJMlozBw&usqp=CAU" group-title="PREMIUM-MOVIES", SONY ONE
 http://xtv.ooo:8080/live/827281020/827292929/351017.m3u8
@@ -531,11 +539,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/8d/25/1f/8d251f2a38ebc7ddf5585c6bb44ddb3b.png",BOOMERANG CN (ENG)
 http://xtv.ooo:8080/live/827281020/827292929/350910.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",DISNEY CHANNEL
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",DISNEY CHANNEL ENG
+http://xtv.ooo:8080/live/827281020/827292929/346464.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007",DISNEY JUNIOR
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007",DISNEY JUNIOR ENG
+http://xtv.ooo:8080/live/827281020/827292929/346465.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YdwENW_olssuHzTe6nYXLtQHnCDgy8ftvw&usqp=CAU",DISNEY XD ENG
+http://xtv.ooo:8080/live/827281020/827292929/346466.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png",DORA TV (MANUAL SET RES)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
