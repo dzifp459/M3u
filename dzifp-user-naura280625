@@ -516,7 +516,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
 http://xtv.ooo:8080/live/827281020/827292929/351045.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-8Wi5TfBxhIq2jcvxT5ArUTxE0-CbbrqESJW3Ip_w&s" group-title="PREMIUM-MOVIES", TVN MOVIES
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h21/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLRs5jqKWXj8peQOw-vaTYenmvKSJYYx2sVh8YF3IhNTBow5wo0NKLrk&s=10" group-title="PREMIUM-MOVIES", ZEE BIOSKOP
 http://xtv.ooo:8080/live/827281020/827292929/351060.m3u8
