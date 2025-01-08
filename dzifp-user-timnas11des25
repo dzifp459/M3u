@@ -16,6 +16,10 @@ https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=ak
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",Mau Join Investasi 10% Perminggu !PM Admin!
 https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/fa9pr56jh8ralzecvd5py/admindzifp.png?rlkey=teialvutl4596avq17vjencm3&dl=1" group-title="Admin_Info",test
+https://api.vidio.com/videos/8407514/common_tokenized_playlist.m3u8
+
+
 
 #########SPORTSLIVE#########
 
@@ -39,6 +43,20 @@ http://xtv.ooo:8080/live/827281020/827292929/350972.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 2
 http://opplex.tv:8080/live/starmpk/mpk1234/350972.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 3
+https://mantul.biz.id/inetwork/gayanet12/60.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 4
+https://mantul.biz.id/inetwork/gayanet12/5286.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3ixS389qUMSd_sfhvP8L3QHZmxIZs-LKQZYCA2GejMJC8EGYnssmRqIi&s=10" group-title="DZIFP|SPORTS-LIVE",===MOTO GP=== 
+https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+
+
 
 
 ########DZIFPLOCAL##########
@@ -294,7 +312,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1370044677_b192
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",EURONEWS (MANUAL SET RES)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0060_221201_1716
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NEWS",FRANCE24 (MANUAL SET RES)
 http://tvd.naam.ro:2082/live/123456789/987654321/33073.m3u8
@@ -315,10 +333,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3981)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0398_230117_1200
 
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png" group-title="NEWS",SEA TODAY (MANUAL SET RES)
-http://cdrs.linknetott.aspirapps.net/channelgroup5/cg546production/ch416/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0416_230117_1200
-
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png" group-title="NEWS",SEA TODAY (MANUAL SET RES) BACKUP 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0m3LA9Oezw4O1KurJ66hQj_yRpzXZu1Qkyg&usqp=CAU" group-title="NEWS",TRT WORLD (MANUAL SET RES)
 http://cdrs.linknetott.aspirapps.net/channelgroup1/cg038production/ch400/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0400_230117_1159
@@ -550,7 +565,7 @@ https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLRs5jqKWXj8peQOw-vaTYenmvKSJYYx2sVh8YF3IhNTBow5wo0NKLrk&s=10" group-title="MOVIES|ENTERTAINMENT", ZEE BIOSKOP
-https://mantul.biz.id/aruba/aruba/261.m3u8
+http://viphomal.xyz:8080/live/VIP01594171414635172/bda831ff8f02/34412.m3u8
 
 #####KIDS######
 
