@@ -109,7 +109,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/03482dde94f412c017caafeaf85c9c76/368382-multi-media-channels-tv-world-indonesia-moji.gif" group-title="LOCAL",MOJI TV 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
+http://188.93.236.76:8070/test_acct/ohbo1veifa4AhD/298550
 
 #EXTINF:-1 tvg-id="nettv.MACAN" tvg-logo="https://media2.giphy.com/media/QwmllAoe35biowjzbf/giphy.gif?cid=6c09b952f695d9b4ca2a8a7d568d9fcf065b376015f26b06&rid=giphy.gif&ct=s" group-title="LOCAL",NET TV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
