@@ -44,12 +44,14 @@ https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=ak
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 1
 https://mantul.biz.id/inetwork/gayanet12/60.ts
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0HrmjSoTk3Ul6iJchLFQkG0087VUHBeP5O8_Wr5AeoCOQn--D23S6uaV&s=10" group-title="DZIFP|SPORTS-LIVE",===MANDIRI CUP U20=== 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0HrmjSoTk3Ul6iJchLFQkG0087VUHBeP5O8_Wr5AeoCOQn--D23S6uaV&s=10" group-title="DZIFP|SPORTS-LIVE",===MANDIRI CUP U20===
 https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 1
-https://mantul.biz.id/inetwork/gayanet12/60.ts
+http://viphomal.xyz:8080/live/VIP01594171414635172/bda831ff8f02/34327.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDWCKoypAWgHkmxJiqF25xc60MdZ-ctnLFQgA366Y1hcC-la5rKC-KW0&s=10" group-title="DZIFP|SPORTS-LIVE",LIVE 2
+http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34327.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3ixS389qUMSd_sfhvP8L3QHZmxIZs-LKQZYCA2GejMJC8EGYnssmRqIi&s=10" group-title="DZIFP|SPORTS-LIVE",===MOTO GP=== 
 https://www.dropbox.com/scl/fi/epigm5xgnydrhrn4mtbed/dzifp-intronew.mp4?rlkey=akteu0x47f0t04rh0qmevbafo&st=n7826hip&dl=1
@@ -135,6 +137,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_
 
 #EXTINF:-1 tvg-id="tvone.MACAN" tvg-logo="https://2.bp.blogspot.com/-5OrygAWesiY/WjCIN3B1inI/AAAAAAAAAq8/geD_fE95ncYneeBO_wvdOjZvgeE5HkjlwCLcBGAs/s1600/tvone2.gif" group-title="LOCAL",TVONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvone.MACAN" tvg-logo="https://2.bp.blogspot.com/-5OrygAWesiY/WjCIN3B1inI/AAAAAAAAAq8/geD_fE95ncYneeBO_wvdOjZvgeE5HkjlwCLcBGAs/s1600/tvone2.gif" group-title="LOCAL",TVONE 2
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
 
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/300px-TVRILogo2019_OnAirScreen.svg.png",TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
