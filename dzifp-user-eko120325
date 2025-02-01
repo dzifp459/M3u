@@ -139,7 +139,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvone.MACAN" tvg-logo="https://2.bp.blogspot.com/-5OrygAWesiY/WjCIN3B1inI/AAAAAAAAAq8/geD_fE95ncYneeBO_wvdOjZvgeE5HkjlwCLcBGAs/s1600/tvone2.gif" group-title="LOCAL",TVONE 2
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI.MACAN" group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVRILogo2019_OnAirScreen.svg/300px-TVRILogo2019_OnAirScreen.svg.png",TVRI NASIONAL
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
